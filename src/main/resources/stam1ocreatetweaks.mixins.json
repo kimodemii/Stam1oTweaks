@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "dev.lieonlion.stam1ocreatetweaks.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LivingEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:blue_dye"
+  },
+  "experience": 1.0,
+  "cookingtime": 100
+}
